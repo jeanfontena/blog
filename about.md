@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+Hi, my name is Jean and this blog is not about pants.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+Made with [Jekyll](https://jekyllrb.com/) and [no-style-please](https://github.com/riggraz/no-style-please).
