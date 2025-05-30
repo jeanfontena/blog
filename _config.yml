@@ -4,7 +4,7 @@ email: email@gmail.com # email of site's author
 url: https://jeanfontena.github.io # root address of the site
 baseurl: "/blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Just a blog.
 
 permalink: /:slug.html
 
