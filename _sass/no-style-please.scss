@@ -73,6 +73,14 @@ table, th, td {
   padding: 0.4rem;
 }
 
+// Managing inline code
+p>code {
+  background-color: #d7d9db;
+  padding: 0.1rem 0.2rem;
+}
+
+
+// Managing code block
 div.highlighter-rouge code {
   display: block;
   overflow-x: auto;
